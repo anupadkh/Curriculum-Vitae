@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1579668717 "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex" "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.pdf" "anup_cv" 1579668718
-  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.aux" 1579668718 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex" 1579668717 14000 d4aa9a60b68bcf6b5a283bc2db423ec5 ""
+["pdflatex"] 1579669027 "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex" "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.pdf" "anup_cv" 1579669028
+  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.aux" 1579669028 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex" 1579669027 14170 4142411f3972bb31363ad5cd984abf1b ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -42,11 +42,11 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1512974049 4129593 27da3cc258ab5ef3ab8aff839cb7b237 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "anup_cv.aux" 1579668718 8 a94a2480d3289e625eea47cd1b285758 ""
-  "anup_cv.tex" 1579668717 14000 d4aa9a60b68bcf6b5a283bc2db423ec5 ""
+  "anup_cv.aux" 1579669028 8 a94a2480d3289e625eea47cd1b285758 ""
+  "anup_cv.tex" 1579669027 14170 4142411f3972bb31363ad5cd984abf1b ""
   (generated)
-  "anup_cv.log"
-  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.pdf"
-  "anup_cv.aux"
-  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.log"
   "anup_cv.pdf"
+  "anup_cv.aux"
+  "anup_cv.log"
+  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.log"
+  "/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.pdf"
