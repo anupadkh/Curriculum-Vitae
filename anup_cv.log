@@ -1,44 +1,40 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.12.11)  22 JAN 2020 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.23)  27 MAR 2022 14:19
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex
-(/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+**anup_cv.tex
+(./anup_cv.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
-\outerbordwidth=\skip43
- (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+\outerbordwidth=\skip49
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
- (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -49,81 +45,94 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/svgnam.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
-)) (/usr/local/texlive/2017/texmf-dist/tex/latex/framed/framed.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip44
-\fb@frw=\dimen103
-\fb@frh=\dimen104
-\FrameRule=\dimen105
-\FrameSep=\dimen106
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has section divisions on input line 44.
-\cftparskip=\skip45
-\cftbeforetoctitleskip=\skip46
-\cftaftertoctitleskip=\skip47
-\cftbeforepartskip=\skip48
-\cftpartnumwidth=\skip49
-\cftpartindent=\skip50
-\cftbeforesecskip=\skip51
-\cftsecindent=\skip52
-\cftsecnumwidth=\skip53
-\cftbeforesubsecskip=\skip54
-\cftsubsecindent=\skip55
-\cftsubsecnumwidth=\skip56
-\cftbeforesubsubsecskip=\skip57
-\cftsubsubsecindent=\skip58
-\cftsubsubsecnumwidth=\skip59
-\cftbeforeparaskip=\skip60
-\cftparaindent=\skip61
-\cftparanumwidth=\skip62
-\cftbeforesubparaskip=\skip63
-\cftsubparaindent=\skip64
-\cftsubparanumwidth=\skip65
-\cftbeforeloftitleskip=\skip66
-\cftafterloftitleskip=\skip67
-\cftbeforefigskip=\skip68
-\cftfigindent=\skip69
-\cftfignumwidth=\skip70
-\c@lofdepth=\count88
-\c@lotdepth=\count89
-\cftbeforelottitleskip=\skip71
-\cftafterlottitleskip=\skip72
-\cftbeforetabskip=\skip73
-\cfttabindent=\skip74
-\cfttabnumwidth=\skip75
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count90
-) (/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.aux)
+\OuterFrameSep=\skip50
+\fb@frw=\dimen135
+\fb@frh=\dimen136
+\FrameRule=\dimen137
+\FrameSep=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip51
+\cftbeforetoctitleskip=\skip52
+\cftaftertoctitleskip=\skip53
+\cftbeforepartskip=\skip54
+\cftpartnumwidth=\skip55
+\cftpartindent=\skip56
+\cftbeforesecskip=\skip57
+\cftsecindent=\skip58
+\cftsecnumwidth=\skip59
+\cftbeforesubsecskip=\skip60
+\cftsubsecindent=\skip61
+\cftsubsecnumwidth=\skip62
+\cftbeforesubsubsecskip=\skip63
+\cftsubsubsecindent=\skip64
+\cftsubsubsecnumwidth=\skip65
+\cftbeforeparaskip=\skip66
+\cftparaindent=\skip67
+\cftparanumwidth=\skip68
+\cftbeforesubparaskip=\skip69
+\cftsubparaindent=\skip70
+\cftsubparanumwidth=\skip71
+\cftbeforeloftitleskip=\skip72
+\cftafterloftitleskip=\skip73
+\cftbeforefigskip=\skip74
+\cftfigindent=\skip75
+\cftfignumwidth=\skip76
+\c@lofdepth=\count175
+\c@lotdepth=\count176
+\cftbeforelottitleskip=\skip77
+\cftafterlottitleskip=\skip78
+\cftbeforetabskip=\skip79
+\cfttabindent=\skip80
+\cfttabnumwidth=\skip81
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count177
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box45
+)
+(./anup_cv.aux)
 \openout1 = `anup_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
- (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen107
-\scratchbox=\box26
-\nofMPsegments=\count92
-\nofMParguments=\count93
+\scratchcounter=\count179
+\scratchdimen=\dimen139
+\scratchbox=\box46
+\nofMPsegments=\count180
+\nofMParguments=\count181
 \everyMPshowfont=\toks14
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen108
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen140
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
 \everyMPtoPDFconversion=\toks15
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -132,38 +141,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 67.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 133.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
  [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in alignment at lines 267--271
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in alignment at lines 276--280
 [][]
  []
 
-
-Overfull \hbox (18.00719pt too wide) in alignment at lines 280--299
+[3]
+Overfull \hbox (18.0072pt too wide) in alignment at lines 289--308
 [] []
  []
 
-[3] [4] (/anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.aux) ) 
+[4] (./anup_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 2188 strings out of 492995
- 28806 string characters out of 6132703
- 109369 words of memory out of 5000000
- 5772 multiletter control sequences out of 15000+600000
- 8096 words of font info for 29 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 26i,10n,35p,842b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on /anup_files/FILES/programs/latextemplate/anup_cv/anup_cv.pdf (4 pages, 120069 bytes).
+ 2119 strings out of 483140
+ 28858 string characters out of 5965151
+ 279530 words of memory out of 5000000
+ 17181 multiletter control sequences out of 15000+600000
+ 537135 words of font info for 40 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 28i,10n,39p,793b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/gandaki-university/.texlive2019/texmf-var/fonts/pk
+/ljfour/jknappen/ec/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on anup_cv.pdf (4 pages, 113506 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
